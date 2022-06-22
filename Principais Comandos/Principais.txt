@@ -1,0 +1,14 @@
+Principais comandos e utilidade:
+
+git config - Para configuração inicial da conta
+git init - para criar um novo projeto - Obs: Para um já existente necessário indicar o nome do repositorio
+git clone - Literalmente fazer um clone (risos) - copiar do GitHub
+git add - Para adicionar arquivos ao repositorio
+**  git add nome_arquivo - adiciona o arquivo especificado
+**  git add* - adiciona todo o repositorio
+git commit - salva e confirma as alterações feita no projeto/codigo...
+**  git commit -a - commita todos os arquivos
+**  git commit -m "coment"- adiciona um comentário para a execução de um commit
+
+Fonte estudos:codigofonte
+ 
